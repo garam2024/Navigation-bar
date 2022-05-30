@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.4.0",
-    "next": "11.0.1",
+    "daisyui": "^2.15.1",
+    "next": "^12.1.6",
+    "next-images": "^1.8.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scroll": "^1.8.3"
@@ -21,5 +23,18 @@
     "eslint-config-next": "11.0.1",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streamline6/Navigation-bar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Streamline6/Navigation-bar/issues"
+  },
+  "homepage": "https://github.com/Streamline6/Navigation-bar#readme"
 }

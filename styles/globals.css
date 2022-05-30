@@ -1,4 +1,6 @@
 /* ./styles/globals.css */
+/* 이렇게 하면 Tailwind CSS 이외의 CSS를 사용하지 않는다  */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
